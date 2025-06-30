@@ -2,3 +2,4 @@ graphrag
 yfiles_jupyter_graphs
 python-dotenv
 azure-ai-documentintelligence
+ipykernel
