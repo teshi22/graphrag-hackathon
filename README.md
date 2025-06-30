@@ -58,7 +58,7 @@ $ graphrag index --root ./ex1
 (参考：https://microsoft.github.io/graphrag/prompt_tuning/overview/)
 
 ```
-graphrag prompt-tune --root ./ex1 --output ./ex1/tuned_prompts
+$ graphrag prompt-tune --root ./ex1 --output ./ex1/tuned_prompts
 ```
 
 ## クエリ
